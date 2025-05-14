@@ -28,10 +28,14 @@ Navegación entre ventanas
 npm install @react-navigation/native
 
 Installing dependencies into an Expo managed Project:
+
 npx expo install react-native-screens react-native-safe-area-context
+
 npm install @react-navigation/native-stack
 
+
 Menu inferior con iconos:
+
 npm install @react-navigation material-bottom-tabs react-navigate-paper react-native-vector-icons
 
 
