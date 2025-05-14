@@ -9,12 +9,16 @@ SI LO DESCARGO DESDE GITHUB
 SI LO CREO DE CERO
 
 1.-npm install -g expo-cli
+
 2.-expo init mi-proyecto -> elegir proyecto blank
+
 3.-npx expo start o npx expo start --clear
+
 4.- Utilizar la app expo go para escanear el qr generado y que aparezca en tu móvil
-cd
+
 
 5.- Para instalar la opción web: npx expo install react-native-web
+
 6.-npx expo install @expo/metro-runtime
 
 
